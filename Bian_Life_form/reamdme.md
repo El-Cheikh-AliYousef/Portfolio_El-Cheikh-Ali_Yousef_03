@@ -45,5 +45,5 @@ J'étais impressionné par la qualité de la vidéo et la musique. Les deux éta
 
 ## Références
 
-![photo](photo/.jpeg)
+![photo](photo/herman_kolgen.png)
 
