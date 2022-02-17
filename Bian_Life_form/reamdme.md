@@ -1,29 +1,49 @@
-# Titre de l'oeuvre
-## Herman Kolgen
+## Titre de l'oeuvre
+
+Le titre de l'oeuvre LifeForm.
+
+## Nom de l'artiste ou de la firme
+
+le nom de l'artiste est Herman Kolgen.
+
+## Année de réalisation
+
+Le projet a été réalisé en 2020.
+
+## Nom de l'exposition ou de l'événement
+
+Le nom de l'exposition est Bian.
+
+## Lieu de mise en exposition
+
+Arsenal art contemporain.
+
+## Date de votre visite
+
+Le 10 février 2022.
+
+## Description de l'oeuvre ou du dispositif multimédia
 
 
-# Nom de l'artiste ou de la firme
 
-# Année de réalisation
+## Explications sur la mise en espace de l'oeuvre ou du dispositif
 
-# Nom de l'exposition ou de l'événement
 
-# Lieu de mise en exposition
 
-# Date de votre visite
+## Liste des composantes et techniques de l'oeuvre ou du dispositif
 
-# Date de votre visite
+un écran et des haut-parleurs
 
-# Description de l'oeuvre ou du dispositif multimédia
+## Liste des éléments nécessaires pour la mise en exposition
 
-# Explications sur la mise en espace de l'oeuvre ou du dispositif
+Un écran, des haut-parleurs, une pièce fermée noire. 
 
-# Liste des composantes et techniques de l'oeuvre ou du dispositif
+## Expérience vécue
 
-# Liste des éléments nécessaires pour la mise en exposition
 
-# Expérience vécue
 
-# Photographies et croquis à intégrer
+## Photographies et croquis à intégrer
 
-# Références
+
+
+## Références
