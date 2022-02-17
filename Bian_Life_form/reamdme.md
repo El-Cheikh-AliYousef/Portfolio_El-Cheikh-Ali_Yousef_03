@@ -1,5 +1,5 @@
-## Titre de l'oeuvre
-# Herman Kolgen
+# Titre de l'oeuvre
+## Herman Kolgen
 
 
 # Nom de l'artiste ou de la firme
