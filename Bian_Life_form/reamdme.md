@@ -47,9 +47,10 @@ J'étais impressionné par la qualité de la vidéo et la musique. Les deux éta
 # Fiche
 ![Herman_Kolgen](https://user-images.githubusercontent.com/89647927/155443748-5cc8e930-2165-474b-925d-997f1d351c1f.png)
 # visage
+![visage_homme](https://user-images.githubusercontent.com/89647927/155443900-c45762b1-b4fc-41c0-8aa2-50ab5fdd3c97.PNG)
 
 # visage déformé
 
 # formes
-
+![formes](https://user-images.githubusercontent.com/89647927/155443904-2a8e387c-97e7-46df-b02f-29a361002e80.PNG)
 
