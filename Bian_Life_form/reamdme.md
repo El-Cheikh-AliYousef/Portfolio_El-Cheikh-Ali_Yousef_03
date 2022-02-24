@@ -50,7 +50,7 @@ J'étais impressionné par la qualité de la vidéo et la musique. Les deux éta
 ![visage_homme](https://user-images.githubusercontent.com/89647927/155443900-c45762b1-b4fc-41c0-8aa2-50ab5fdd3c97.PNG)
 
 # visage déformé
-
+![visage_homme_deforme](https://user-images.githubusercontent.com/89647927/155444040-0d5aae5b-6505-48e2-aeb4-7bcca5c809c6.PNG)
 # formes
 ![formes](https://user-images.githubusercontent.com/89647927/155443904-2a8e387c-97e7-46df-b02f-29a361002e80.PNG)
 
