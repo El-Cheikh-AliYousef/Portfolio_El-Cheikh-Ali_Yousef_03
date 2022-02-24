@@ -1,1 +1,1 @@
-ma phot
+ma photo
